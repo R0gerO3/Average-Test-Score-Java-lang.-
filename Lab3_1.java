@@ -1,6 +1,4 @@
 //Rodrigo Espinoza
-//Lab 3, #1
-//CS/IS 112
 
 //create input using scanner class
 /*create 3 variables for each test score
@@ -10,7 +8,7 @@ Test_1, Test_2, Test_3 */
 
 import java.util.Scanner;   //must use for scanner class to activate
 
-public class Lab3_1
+public class Avg_tescore
 {
     public static void main(String[] args)
     {
