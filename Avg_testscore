@@ -8,7 +8,7 @@ Test_1, Test_2, Test_3 */
 
 import java.util.Scanner;   //must use for scanner class to activate
 
-public class Avg_tescore
+public class Avg_testcore
 {
     public static void main(String[] args)
     {
